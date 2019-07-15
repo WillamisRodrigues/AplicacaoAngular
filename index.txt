@@ -1,0 +1,4 @@
+- Angular Frameork JS mantida pelo google.
+- trabalha com sigle page aplication o usuario acessa aplicação web como se estivese rodando
+no desktop
+- o usuario não precisa ficar atualizando a pagina
