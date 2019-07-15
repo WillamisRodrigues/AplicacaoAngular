@@ -2,3 +2,7 @@
 - trabalha com sigle page aplication o usuario acessa aplicação web como se estivese rodando
 no desktop
 - o usuario não precisa ficar atualizando a pagina
+
+- o angular e formado de diretivas
+exemplo ng-bind, ng-repeat, ng-model e etc;
+- o filter vc passa o elemento que deseja filtrar
